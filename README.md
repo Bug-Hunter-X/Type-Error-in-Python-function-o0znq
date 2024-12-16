@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in Python. When adding an integer and a string, it leads to a TypeError because these two types cannot be directly added. The solution shows a corrected function with type checking or conversion to avoid the error.
